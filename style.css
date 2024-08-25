@@ -415,7 +415,7 @@ img{
     .back{
         background-repeat: no-repeat;
         background-size: 100%;
-        background-image: url(/Imagens/computador.png);
+        background-image: url(./Imagens/computador.png);
         display: flex;
         align-items: center;
         justify-content: center;
