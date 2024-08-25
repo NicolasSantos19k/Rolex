@@ -209,7 +209,7 @@ img{
 }
 .card{
     position: relative;
-    background-image: url(/Imagens/relogio1.png);
+    background-image: url(./Imagens/relogio1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -219,7 +219,7 @@ img{
 }
 .card1{
     position: relative;
-    background-image: url(/Imagens/relogio2.png);
+    background-image: url(./Imagens/relogio2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -229,7 +229,7 @@ img{
 }
 .card2{
     position: relative;
-    background-image: url(/Imagens/relogio3.png);
+    background-image: url(./Imagens/relogio3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -285,7 +285,7 @@ img{
     transition: 0.1s;
 }
 .sessao{
-    background-image: url(/Imagens/footer.png);
+    background-image: url(./Imagens/footer.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: top;
@@ -464,7 +464,7 @@ img{
     .box{
         height: 20vw;
         width: 40vw;
-        background-image: url(Imagens/goldbackground.png);
+        background-image: url(.Imagens/goldbackground.png);
         display: flex;
         align-items: center;
         justify-content: center;
@@ -517,7 +517,7 @@ img{
     .back{
         background-repeat: no-repeat;
         background-size: 100%;
-        background-image: url(/Imagens/tablet.png);
+        background-image: url(./Imagens/tablet.png);
         display: flex;
         align-items: center;
         justify-content: center;
@@ -557,7 +557,7 @@ img{
     .box{
         height: 20vw;
         width: 40vw;
-        background-image: url(Imagens/goldbackground.png);
+        background-image: url(.Imagens/goldbackground.png);
         display: flex;
         align-items: center;
         justify-content: center;
@@ -615,7 +615,7 @@ img{
     .back{
         background-repeat: no-repeat;
         background-size: 100%;
-        background-image: url(/Imagens/calular.png);
+        background-image: url(./Imagens/calular.png);
         display: flex;
         align-items: center;
         justify-content: center;
@@ -681,7 +681,7 @@ img{
     .box{
         height: 30vw;
         width: 40vw;
-        background-image: url(Imagens/goldbackground.png);
+        background-image: url(.Imagens/goldbackground.png);
         display: flex;
         align-items: center;
         justify-content: center;
