@@ -464,7 +464,7 @@ img{
     .box{
         height: 20vw;
         width: 40vw;
-        background-image: url(.Imagens/goldbackground.png);
+        background-image: url(./Imagens/goldbackground.png);
         display: flex;
         align-items: center;
         justify-content: center;
@@ -557,7 +557,7 @@ img{
     .box{
         height: 20vw;
         width: 40vw;
-        background-image: url(.Imagens/goldbackground.png);
+        background-image: url(./Imagens/goldbackground.png);
         display: flex;
         align-items: center;
         justify-content: center;
@@ -681,7 +681,7 @@ img{
     .box{
         height: 30vw;
         width: 40vw;
-        background-image: url(.Imagens/goldbackground.png);
+        background-image: url(./Imagens/goldbackground.png);
         display: flex;
         align-items: center;
         justify-content: center;
