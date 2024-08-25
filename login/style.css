@@ -6,7 +6,7 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    background-image: url(./Imagens/background.png);
+    background-image: url(../Imagens/background.png);
 }
 ::-webkit-scrollbar{
     width: 0px;
