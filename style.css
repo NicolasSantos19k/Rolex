@@ -209,7 +209,7 @@ img{
 }
 .card{
     position: relative;
-    background-image: url(../Imagens/relogio1.png);
+    background-image: url(Imagens/relogio1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -219,7 +219,7 @@ img{
 }
 .card1{
     position: relative;
-    background-image: url(../Imagens/relogio2.png);
+    background-image: url(Imagens/relogio2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -229,7 +229,7 @@ img{
 }
 .card2{
     position: relative;
-    background-image: url(../Imagens/relogio3.png);
+    background-image: url(Imagens/relogio3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
